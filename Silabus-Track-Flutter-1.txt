@@ -28,3 +28,12 @@ Jika sudah melakukan submission, mohon untuk menginfokan ke group supaya dapat d
 
 GitHub Repository
 Irianto-HSI/Flutter-HSI: Belajar Flutter Sandbox 3.0 Komunitas HSI (github.com)
+
+Belajarnya dari tutorial Sandhikagalih-UNPAS
+-  @sandhikagalih
+
+ / sandhikagalih
+ / webprogrammingunpas  
+- http://codepen.io/webprogrammingunpas
+- https://github.com/webprogrammingunpas
+
