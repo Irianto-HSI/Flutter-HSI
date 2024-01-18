@@ -37,3 +37,7 @@ Belajarnya dari tutorial Sandhikagalih-UNPAS
 - http://codepen.io/webprogrammingunpas
 - https://github.com/webprogrammingunpas
 
+Sudah praktek membuat repository
+Sudah belajar melakukan 3 kali commit 
+Berikutnya akan belajar membuat branch, push, pull, merge, dan conflict resolve
+
