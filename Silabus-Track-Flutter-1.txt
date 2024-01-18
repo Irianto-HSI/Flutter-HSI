@@ -1,0 +1,30 @@
+Silabus Track Flutter pada Level 1:
+
+Tujuan Pembelajaran :
+- Peserta dapat mengenal konsep code repository dan menggunakan Git dalam project
+- Peserta dapat mengetahui syntax bahasa pemrograman dart dan flutter
+
+Materi :
+1. Mengenal repository Github / Gitlab
+    a. https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
+    b. https://www.youtube.com/watch?v=fQbTeNX1mvM&t=1s
+2. Dasar-dasar bahasa pemrograman Dart
+    a. https://youtu.be/-mzXdI27tyk?si=ZSaNUongkF3ygIy2
+
+Tugas:
+1. Praktikum membuat branch, melakukan commit, push, pull, merge, conflict resolve
+2. Praktikum menggunakan list, set, map, looping, percabangan, dan functional programming
+
+Template Tugas Level 1:
+https://docs.google.com/document/d/1eRCvFjzq3thWcOZBMUBnI3v7jEkcGrjXQDIbHPZJmKU/edit?usp=sharing
+
+Submission Form:
+https://forms.gle/3r5Gws5pvdgS2xax8
+
+*) notes: 
+Screenshoot atau dokumen hasil pengerjaan tugas dapat dilampirkan melalui google form Lampiran
+
+Jika sudah melakukan submission, mohon untuk menginfokan ke group supaya dapat di check oleh mentor.
+
+GitHub Repository
+Irianto-HSI/Flutter-HSI: Belajar Flutter Sandbox 3.0 Komunitas HSI (github.com)
