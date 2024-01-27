@@ -41,5 +41,5 @@ Sudah praktek membuat repository
 Sudah belajar melakukan 3 kali commit 
 Berikutnya akan belajar membuat branch, push, pull, merge, dan conflict resolve
 
-Belajar membuat branch
+#Belajar membuat branch#
 
